@@ -1,4 +1,4 @@
-echo "Alist一键更新脚本"
+echo "一键更新脚本"
 echo "脚本作者：舒夏"
 echo "GitHub开源地址：https://github.com/sxbai/alist-on-replit"
 rm -rf sx && wget -O sx https://suanjin.tk/xiatian3.15.0
